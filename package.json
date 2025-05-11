@@ -9,7 +9,7 @@
     "dev:css": "tailwindcss -i assets/css/tailwind.css -o _site/assets/css/tailwind.css --watch --postcss",
     "build:11ty": "eleventy",
     "build:css": "tailwindcss -i assets/css/tailwind.css -o _site/assets/css/tailwind.css --postcss",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/GitHub-Workshop/"
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/GitHub-Workshop/ && tailwindcss -i assets/css/tailwind.css -o _site/assets/css/tailwind.css --postcss"
   },
   "keywords": [],
   "author": "",
