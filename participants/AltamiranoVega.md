@@ -1,8 +1,8 @@
 ---
 name: Sheral Altamirano
 career: Ingeniería de Sistemas
-hobbies: Leer, programar y jugar futbol
-description: Soy un apasionado ingeniero de software junior y creador de contenido educativo, comprometido con el aprendizaje continuo, la enseñanza tecnológica y el impacto social positivo.
-image: https://i.imgur.com/bv1Tbhj.jpeg
+hobbies: Series, juegos
+description: Apasionado por la tecnología
+image: https://i.imgur.com/jZDV2lQ.jpeg
 github: SheralA16
 ---
